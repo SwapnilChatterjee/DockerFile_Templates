@@ -29,4 +29,4 @@ Just download your required Dockerfile and run the command
 
 ## License
 
-This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/SwapnilChatterjee/DockerFile_Templates/blob/main/LICENSE) file for details.
